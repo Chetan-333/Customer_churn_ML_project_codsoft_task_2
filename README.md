@@ -1,6 +1,6 @@
 Customer Churn Prediction 🧠📊
 
-This project focuses on building a Machine Learning model to predict customer churn based on a telecom dataset. The objective is to identify customers who are likely to stop using the service, enabling the company to take preventive actions.
+This project focuses on building a Machine Learning model to predict customer churn based on a bank dataset. The objective is to identify customers who are likely to stop using the service, enabling the company to take preventive actions.
 
 Dataset Description 📁
 
